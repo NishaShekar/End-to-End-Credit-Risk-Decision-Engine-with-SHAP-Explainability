@@ -32,7 +32,7 @@ It also provides **SHAP-based explainability** to justify individual predictions
 - Decision threshold tuned for business risk appetite  
 - Individual-level explainability using SHAP  
 
----
+----
 
 ## 📊 Business Logic
 
