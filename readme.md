@@ -62,6 +62,7 @@ Score Range: **300 – 850**
 
 If:
  PD < Decision Threshold → Approve
+ 
  PD ≥ Decision Threshold → Reject
 
 Threshold optimized based on performance metrics and business tolerance.
@@ -110,8 +111,6 @@ Multi_Agent_System/
 ---
 
 ## 🌍 Live Deployment
-
-(After deployment, update this section)
 
 Live App: https://credit-risk-decision-engine-with-shap.streamlit.app/
 
