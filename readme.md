@@ -127,13 +127,6 @@ Live App: https://credit-risk-decision-engine-with-shap.streamlit.app/
 
 ---
 
-## 👩‍💻 Author
-
-Your Name  
-MBA (Finance) + AI & Data Analytics  
-
----
-
 ## ⭐ Business Impact
 
 This project demonstrates:
